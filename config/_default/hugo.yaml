@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: DMG # Website name
-baseURL: 'https://d-m-g.org/' # Website URL
+baseURL: 'https://dmg-network.github.io/'
+#baseURL: 'https://d-m-g.org/' # Website URL
 
 ############################
 ## LANGUAGE
