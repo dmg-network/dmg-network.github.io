@@ -1,3 +1,5 @@
+[![Deploy website to GitHub Pages](https://github.com/dmg-maintainers/dmg-maintainers.github.io/actions/workflows/publish.yaml/badge.svg)](https://github.com/dmg-maintainers/dmg-maintainers.github.io/actions/workflows/publish.yaml)
+
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
 [![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
