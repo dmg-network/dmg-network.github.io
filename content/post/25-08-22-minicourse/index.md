@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "2024 Yearbook"
+title: "Minicourse on Hodge Theory in Nonsmooth Settings"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-The 2024 Mathematics Yearbook is out! Congratulations to all the students who contributed to it. A fantastic recognition of their hard work. You can downlad it [here](https://blogs.deakin.edu.au/maths/yearbook/).
+On 18, 20, 22nd August, [Lashi Bandara](https://lashi.org) gave an online minicourse at the Geometric Analysis and Related Fields seminar, organised by [Sajjad Lakzian](https://people.iut.ac.ir/en/sajjadlakzian) at Isfahan University of Technology. Recordings are available  [here](https://www.youtube.com/watch?v=wllJ2wRyldw&list=PLuKJ_JmLD0R8a_PKKLO_ISLIII97cLBce&ab_channel=Lashi%27sMathsChannel).
