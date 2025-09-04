@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-On 18, 20, 22nd August, [Lashi Bandara](lashi.org) gave an online minicourse at the Geometric Analysis and Related Fields seminar, organised by [Sajjad Lakzian](https://people.iut.ac.ir/en/sajjadlakzian) at Isfahan University of Technology. Recordings are available  [here](https://www.youtube.com/watch?v=wllJ2wRyldw&list=PLuKJ_JmLD0R8a_PKKLO_ISLIII97cLBce&ab_channel=Lashi%27sMathsChannel).
+On 18, 20, 22nd August, [Lashi Bandara](https://lashi.org) gave an online minicourse at the Geometric Analysis and Related Fields seminar, organised by [Sajjad Lakzian](https://people.iut.ac.ir/en/sajjadlakzian) at Isfahan University of Technology. Recordings are available  [here](https://www.youtube.com/watch?v=wllJ2wRyldw&list=PLuKJ_JmLD0R8a_PKKLO_ISLIII97cLBce&ab_channel=Lashi%27sMathsChannel).
